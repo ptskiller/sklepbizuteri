@@ -1,2 +1,0 @@
-# sklepbizuteri
-Sklep Biżuterii 
